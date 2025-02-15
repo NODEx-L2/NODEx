@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  [![Version](https://img.shields.io/badge/Version-1.0.0-alpha-9cf?style=for-the-badge&logo=starship)](https://github.com/NODEx)
+  
   [![License](https://img.shields.io/badge/License-Apache--2.0-ff69b4?style=for-the-badge)](LICENSE)
   [![Solana L2](https://img.shields.io/badge/Solana_L2-Enabled-8A2BE2?style=for-the-badge&logo=solana)](https://solana.com)
   [![Polkadot DNA](https://img.shields.io/badge/Polkadot_DNA-Integrated-E6007A?style=for-the-badge&logo=polkadot)](https://polkadot.network)
