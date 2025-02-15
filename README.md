@@ -23,3 +23,10 @@
 ```bash
 # Just getting started? Try our AI-powered CLI!
 curl -sSL https://get.nodex.money | bash
+
+
+✨ Features That Bend Reality
+🔥 AI-Powered Scaling	🌉 Neural Bridges	🔐 Quantum-Safe Security
+<img src="https://media.giphy.com/media/3o7TKMt1ZZM6yzS5gQ/giphy.gif" width="150">	<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhPy/giphy.gif" width="150">	<img src="https://media.giphy.com/media/3o6Zt7aSSXLZdtjvLa/giphy.gif" width="150">
+Batch 100k+ TPS with contextual AI optimization	Self-learning bridges connecting Solana↔Polkadot↔Ethereum	ML-powered threat detection + zero-knowledge proofs
+🧠 Architecture Overview
