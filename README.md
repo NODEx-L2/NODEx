@@ -89,13 +89,10 @@ nodex ai train --data=./tx_history.csv
 nodex deploy --network=solana-l2
 ```
 
-[📚 Full CLI Documentation](https://docs.nodex.ai)
-
 ## 🌍 Join the Neural Revolution
 
-- [Discord](https://discord.gg/nodex)
+- [Website](https://NODEx.money)
 - [Twitter](https://twitter.com/NODEx_AI)
-- [Telegram](https://t.me/nodex_community)
 
 ## 📜 License
 
