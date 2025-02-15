@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🌐 NODEx | $NODEX</h1>
-<h3 align="center">The AI-Powered Blockchain Hyperengine</h3>
+<h3 align="center">Solana's AI-Powered L2 Blockchain Hyperengine</h3>
 
 <div align="center">
   
