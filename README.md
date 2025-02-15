@@ -40,4 +40,4 @@ NODEx is **not just another blockchain** - it's an **AI-driven hyperengine** com
 
 ```bash
 # Just getting started? Try our AI-powered CLI!
-curl -sSL https://get.nodex.ai | bash
+curl -sSL https://get.nodex.money | bash
