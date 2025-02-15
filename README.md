@@ -16,27 +16,9 @@
 
 ---
 
-<!-- ASCII Art -->
-<div align="center">
-<pre>
-▓█████▄  ▒█████   ██▀███   ███▄ ▄███▓ ██▀███   ▄████▄  
-▒██▀ ██▌▒██▒  ██▒▓██ ▒ ██▒▓██▒▀█▀ ██▒▓██ ▒ ██▒▒██▀ ▀█  
-░██   █▌▒██░  ██▒▓██ ░▄█ ▒▓██    ▓██░▓██ ░▄█ ▒▒▓█    ▄ 
-░▓█▄   ▌▒██   ██░▒██▀▀█▄  ▒██    ▒██ ▒██▀▀█▄  ▒▓▓▄ ▄██▒
-░▒████▓ ░ ████▓▒░░██▓ ▒██▒▒██▒   ░██▒░██▓ ▒██▒▒ ▓███▀ ░
- ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░ ▒░   ░  ░░ ▒▓ ░▒▓░░ ░▒ ▒  ░
- ░ ▒  ▒   ░ ▒ ▒░   ░▒ ░ ▒ ░  ░      ░  ░▒ ░ ▒░  ░  ▒   
- ░ ░  ░ ░ ░ ░ ▒    ░░   ░ ░      ░     ░░   ░ ░        
-   ░        ░ ░     ░            ░      ░     ░ ░      
- ░                                             ░        
-</pre>
-</div>
-
----
-
 ## 🚀 **Welcome to the Future of Blockchain**
 
-NODEx is **not just another blockchain** - it's an **AI-driven hyperengine** combining Solana's speed with Polkadot's interoperability, supercharged by self-learning neural networks. Imagine a Layer-2 that **thinks**, **adapts**, and **evolves**. That's NODEx.
+𝗡𝗢𝗗𝗘𝘅 is **not just another blockchain** - it's an **AI-driven hyperengine** combining Solana's speed with Polkadot's interoperability, supercharged by self-learning neural networks. Imagine a Layer-2 that **thinks**, **adapts**, and **evolves**. That's NODEx.
 
 ```bash
 # Just getting started? Try our AI-powered CLI!
