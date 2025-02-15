@@ -1,4 +1,4 @@
-# 𝗡𝗢𝗗𝗘𝘅 | $𝗡𝘅: Next-Gen Layer 2 Scaling for Solana
+# <span className="text-[#ddff00]">𝗡𝗢𝗗𝗘𝘅 ($𝗡𝘅)</span> Next-Gen Layer 2 Scaling for Solana
 
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/1687816145859137537/1739622305/1500x500" alt="NODEx Logo" width="1500"/>
