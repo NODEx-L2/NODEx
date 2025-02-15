@@ -1,8 +1,8 @@
-# <span className="text-[#ddff00]">𝗡𝗢𝗗𝗘𝘅 ($𝗡𝘅)</span> Next-Gen Layer 2 Scaling for Solana
+# 𝗡𝗢𝗗𝗘𝘅 | $𝗡𝘅: Next-Gen Layer 2 Scaling for Solana
 
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/1687816145859137537/1739622305/1500x500" alt="NODEx Logo" width="1500"/>
-  <p><strong>Revolutionizing Solana's scalability through advanced Layer 2 solutions</strong></p>
+  <p><strong>Solana's AI-Powered Layer 2 Solution</strong></p>
 </div>
 
 ## ✨ Features That Bend Reality
@@ -16,9 +16,9 @@
 <tr>
 </tr>
 <tr>
-<td align="center">Batch 100k+ TPS with contextual AI optimization</td>
+<td align="center">Batch 500k+ TPS with contextual AI optimization</td>
 <td align="center">Self-learning bridges connecting Solana↔Polkadot↔Ethereum</td>
-<td align="center">ML-powered threat detection + zero-knowledge proofs</td>
+<td align="center">ML-powered threat detection + MEV-proof TXs + zero-knowledge proofs</td>
 </tr>
 </table>
 
