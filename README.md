@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FmY3VvYzJ6eTZ5bG1jM2V4d2x6eWx4dG5qY2J5dWJ6bGJ6d2N5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6W7Cz7JPhWRHHy/giphy.gif" width="400" alt="NODEx AI Pulse">
+  <img src="https://x.com/i/status/1890789283562217515" width="400" alt="NODEx AI Pulse">
 </p>
 
 <h1 align="center">🌐 NODEx | $NODEX</h1>
