@@ -1,4 +1,4 @@
-# NODEx: Next-Gen Layer 2 Scaling for Solana
+# 𝗡𝗢𝗗𝗘𝘅 | $𝗡𝘅: Next-Gen Layer 2 Scaling for Solana
 
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/1687816145859137537/1739622305/1500x500" alt="NODEx Logo" width="1500"/>
@@ -14,9 +14,6 @@
 <td align="center">🔐 Quantum-Safe Security</td>
 </tr>
 <tr>
-<td align="center"><img src="https://media.giphy.com/media/3o7TKMt1ZZM6yzS5gQ/giphy.gif" width="150"></td>
-<td align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhPy/giphy.gif" width="150"></td>
-<td align="center"><img src="https://media.giphy.com/media/3o6Zt7aSSXLZdtjvLa/giphy.gif" width="150"></td>
 </tr>
 <tr>
 <td align="center">Batch 100k+ TPS with contextual AI optimization</td>
