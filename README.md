@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://x.com/i/status/1890789283562217515" width="400" alt="NODEx AI Pulse">
+  <img src="[https://x.com/i/status/1890789283562217515](https://pbs.twimg.com/profile_banners/1687816145859137537/1739622305/1500x500)" width="400" alt="NODEx AI Pulse">
 </p>
 
 <h1 align="center">🌐 NODEx | $NODEX</h1>
